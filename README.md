@@ -51,6 +51,7 @@ Make sure you have Python 3.8+ and run:
 !pip install faiss-cpu
 
 3. **Launch the Notebook**
+   
 
 ## 📚 **Example Output**
 Prompt:
@@ -67,7 +68,8 @@ Result:
 
 🧾 JSON metadata with timeline, emotions, and named entities
 
-##🚀 **Future Enhancements**
+
+## 🚀 **Future Enhancements**
 
 🌐 Web app interface for interactive storytelling
 

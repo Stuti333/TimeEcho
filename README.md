@@ -52,7 +52,7 @@ Make sure you have Python 3.8+ and run:
 
 3. **Launch the Notebook**
 
-📚 **Example Output**
+## 📚 **Example Output**
 Prompt:
 
 "Describe the Great Fire of London through the eyes of a baker who witnessed it in 1666."
@@ -67,7 +67,7 @@ Result:
 
 🧾 JSON metadata with timeline, emotions, and named entities
 
-🚀 **Future Enhancements**
+##🚀 **Future Enhancements**
 
 🌐 Web app interface for interactive storytelling
 

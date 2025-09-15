@@ -30,4 +30,18 @@ To **bring history to life** using GenAI by combining:
 | 🔁 **Few-Shot Prompting**           | Maintain persona consistency across generations                             |
 | 💡 **Dynamic Agents**               | Handle different types of queries contextually using specialized agents     |
 
------
+---
+
+## ⚡ Quick Start (via Notebook)
+
+You can try TimeEcho right away by running the provided notebook.
+
+### 🧪 Run TimeEcho in 3 Simple Steps:
+
+1. **Clone the Repository**
+git clone https://github.com/your-username/timeecho.git
+cd timeecho
+
+2. **Install Dependencies**
+
+Make sure you have Python 3.8+ and run:
